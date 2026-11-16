@@ -20,7 +20,7 @@ export default function Nav() {
         
     },[])
   return (
-    <div className="flex navbar text-xl  md:w-screen flex:row bg-G justify-center font-bold items-center p-5 text-gray-50">
+    <div className="flex navbar text-xl  md:w-screen flex:row bg-[#071B37] justify-center font-bold items-center p-5 text-gray-50">
         <h1 className="stag flex-5  items-center p-1"><a href="/"> Profile</a></h1>
         <ul id="navlinks" className="flex flex:row flex-1 gap-5">
             <li className="stag"><a href="/gamedesign">Game Design</a></li>
