@@ -18,7 +18,7 @@ export default function Eg(){
                start: ismobile ? "top 60%" : "top 80%",
                 end:   ismobile ? "bottom -50%" : "bottom -60%",
                 scrub:true,
-                markers:true
+                
 
             
             }})
