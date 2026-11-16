@@ -13,8 +13,8 @@ const Hero = () => {
   return (
     <>
      <section className="grid md:grid-cols-2 grid-cols-1 items-center-safe justify-center gap-10 md:h-[90vh] h-fit md:mb-0 mb-10 w-full ">
-    <div className="w-full md:w-[65%] md:ml-30 lg:aspect-square flex  rounded-2xl md:shadow-2xl md:shadow justify-center">
-      <img className="h-full" src="/a.jpg" alt="my"/>
+    <div className="w-full md:w-[65%] md:ml-30 lg:aspect-square flex p-50  rounded-2xl md:shadow-2xl md:shadow justify-center">
+      <img className="h-full" src="/lock.jpg" alt="my"/>
 
     </div>
     <div className="flex flex-col w-full md:w-[65%] lg:aspect-square justify-center font-pixel text-emerald-700 md:p-5 p-8 ">
