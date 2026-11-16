@@ -10,7 +10,7 @@ export default function Home() {
    <>
   <Hero/>
   <Eg/>
- <div className="h-fit w-full p-10 flex justify-center items-center flex-col gap-10">
+ <div className="h-fit w-full p-10 flex justify-center md:items-center flex-col gap-10">
   <div className="grid grid-cols-1 md:grid-cols-2 w-fit gap-10 h-fit">
     <Link
       href="/gamedesign"
