@@ -55,6 +55,6 @@ export default function Eg(){
 
     </div>
     <div className="w-full h-18 rounded-b-[10%_100%] bg-emerald-500"></div>
-    <div className="h-screen"> </div>
+    
     </>
 }
